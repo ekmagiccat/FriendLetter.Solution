@@ -18,7 +18,7 @@ namespace FriendLetter.Controllers
         {
             LetterVariable myLetterVariable = new LetterVariable();
             myLetterVariable.Recipient = "Lina";
-            myLetterVariable.Sender = "Jasmine";
+            myLetterVariable.Sender = "Eva";
             myLetterVariable.Spot = "The North Pole";
             myLetterVariable.DiffSpot = "Jamaica";
             myLetterVariable.Souvenir = "candy cane";
